@@ -1,6 +1,15 @@
+# CPU mxnet version for Deformable-RCNN
+This repo contains the CPU version of Deformable-RCNN code, based on the issue here:
+https://github.com/msracver/Deformable-ConvNets/issues/124
+
+
+and the original github drive is:
+https://drive.google.com/drive/folders/1P8vYr9ekWp3NK8_N2bs8sl7jRT39m25I
+
 <div align="center">
   <a href="https://mxnet.incubator.apache.org/"><img src="https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/image/mxnet_logo_2.png"></a><br>
 </div>
+
 
 Apache MXNet (incubating) for Deep Learning
 =====
